@@ -4,7 +4,7 @@ import App from "./App.jsx";
 import { BrowserRouter } from "react-router-dom";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter basename="/~omoloney/medical_project/medical-records-deploy">
+  <BrowserRouter basename="/~mballard7/medical-records-swe/medical-records-deploy">
     <App />
   </BrowserRouter>
 );
